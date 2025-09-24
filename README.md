@@ -32,7 +32,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/project-1-5zEm9pG.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/a/project-1-5zEm9pG.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+LINK: https://imgur.com/a/project-1-5zEm9pG
 
 GIF created with ...  Add GIF tool here
 
