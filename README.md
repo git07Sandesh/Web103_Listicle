@@ -1,7 +1,7 @@
 <!-- filepath: /Users/sandeshbhattarai/Desktop/Web_103/Listicle/README.md -->
 # WEB103 Project 1 - *Favorite Movies Listicle*
 
-Submitted by: *iSandesh Bhattarao**
+Submitted by: *Sandesh Bhattarai**
 
 About this web app: **A listicle showcasing my favorite movies with detailed information about each film including ratings, categories, and descriptions.**
 
@@ -32,7 +32,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/5zEm9pG' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/project-1-5zEm9pG.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  Add GIF tool here
 
